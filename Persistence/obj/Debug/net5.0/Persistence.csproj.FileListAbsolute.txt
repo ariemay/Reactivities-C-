@@ -1,0 +1,15 @@
+/Users/ariemaywibowo/Developments/ASPNET/udemy/Reactivities/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/ariemaywibowo/Developments/ASPNET/udemy/Reactivities/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/ariemaywibowo/Developments/ASPNET/udemy/Reactivities/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/ariemaywibowo/Developments/ASPNET/udemy/Reactivities/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/ariemaywibowo/Developments/ASPNET/udemy/Reactivities/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/ariemaywibowo/Developments/ASPNET/udemy/Reactivities/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/ariemaywibowo/Developments/ASPNET/udemy/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.AssemblyReference.cache
+/Users/ariemaywibowo/Developments/ASPNET/udemy/Reactivities/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ariemaywibowo/Developments/ASPNET/udemy/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/ariemaywibowo/Developments/ASPNET/udemy/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/ariemaywibowo/Developments/ASPNET/udemy/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/ariemaywibowo/Developments/ASPNET/udemy/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/ariemaywibowo/Developments/ASPNET/udemy/Reactivities/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/ariemaywibowo/Developments/ASPNET/udemy/Reactivities/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/ariemaywibowo/Developments/ASPNET/udemy/Reactivities/Persistence/obj/Debug/net5.0/Persistence.pdb
